@@ -12,6 +12,20 @@
 		2A2CA6A31C7BF2F000D30114 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A2CA6A11C7BF2F000D30114 /* Main.storyboard */; };
 		2A2CA6A51C7BF2F000D30114 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A2CA6A41C7BF2F000D30114 /* Assets.xcassets */; };
 		2A2CA6A81C7BF2F000D30114 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A2CA6A61C7BF2F000D30114 /* LaunchScreen.storyboard */; };
+		2A2CA6BC1C7BF68000D30114 /* whitebird_frame1.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A2CA6AF1C7BF68000D30114 /* whitebird_frame1.png */; };
+		2A2CA6BD1C7BF68000D30114 /* whitebird_frame2.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A2CA6B01C7BF68000D30114 /* whitebird_frame2.png */; };
+		2A2CA6BE1C7BF68000D30114 /* whitebird_frame3.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A2CA6B11C7BF68000D30114 /* whitebird_frame3.png */; };
+		2A2CA6BF1C7BF68000D30114 /* whitebird_frame4.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A2CA6B21C7BF68000D30114 /* whitebird_frame4.png */; };
+		2A2CA6C01C7BF68000D30114 /* whitebird_frame5.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A2CA6B31C7BF68000D30114 /* whitebird_frame5.png */; };
+		2A2CA6C11C7BF68000D30114 /* whitebird_frame6.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A2CA6B41C7BF68000D30114 /* whitebird_frame6.png */; };
+		2A2CA6C21C7BF68000D30114 /* whitebird_frame7.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A2CA6B51C7BF68000D30114 /* whitebird_frame7.png */; };
+		2A2CA6C31C7BF68000D30114 /* whitebird_frame8.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A2CA6B61C7BF68000D30114 /* whitebird_frame8.png */; };
+		2A2CA6C41C7BF68000D30114 /* whitebird_frame9.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A2CA6B71C7BF68000D30114 /* whitebird_frame9.png */; };
+		2A2CA6C51C7BF68000D30114 /* whitebird_frame10.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A2CA6B81C7BF68000D30114 /* whitebird_frame10.png */; };
+		2A2CA6C61C7BF68000D30114 /* whitebird_frame11.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A2CA6B91C7BF68000D30114 /* whitebird_frame11.png */; };
+		2A2CA6C71C7BF68000D30114 /* whitebird_frame12.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A2CA6BA1C7BF68000D30114 /* whitebird_frame12.png */; };
+		2A2CA6C81C7BF68000D30114 /* whitebird_frame13.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A2CA6BB1C7BF68000D30114 /* whitebird_frame13.png */; };
+		2A2CA6CB1C7C076600D30114 /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2A2CA6CA1C7C076600D30114 /* background.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +36,20 @@
 		2A2CA6A41C7BF2F000D30114 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2A2CA6A71C7BF2F000D30114 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2A2CA6A91C7BF2F000D30114 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2A2CA6AF1C7BF68000D30114 /* whitebird_frame1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitebird_frame1.png; sourceTree = "<group>"; };
+		2A2CA6B01C7BF68000D30114 /* whitebird_frame2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitebird_frame2.png; sourceTree = "<group>"; };
+		2A2CA6B11C7BF68000D30114 /* whitebird_frame3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitebird_frame3.png; sourceTree = "<group>"; };
+		2A2CA6B21C7BF68000D30114 /* whitebird_frame4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitebird_frame4.png; sourceTree = "<group>"; };
+		2A2CA6B31C7BF68000D30114 /* whitebird_frame5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitebird_frame5.png; sourceTree = "<group>"; };
+		2A2CA6B41C7BF68000D30114 /* whitebird_frame6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitebird_frame6.png; sourceTree = "<group>"; };
+		2A2CA6B51C7BF68000D30114 /* whitebird_frame7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitebird_frame7.png; sourceTree = "<group>"; };
+		2A2CA6B61C7BF68000D30114 /* whitebird_frame8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitebird_frame8.png; sourceTree = "<group>"; };
+		2A2CA6B71C7BF68000D30114 /* whitebird_frame9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitebird_frame9.png; sourceTree = "<group>"; };
+		2A2CA6B81C7BF68000D30114 /* whitebird_frame10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitebird_frame10.png; sourceTree = "<group>"; };
+		2A2CA6B91C7BF68000D30114 /* whitebird_frame11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitebird_frame11.png; sourceTree = "<group>"; };
+		2A2CA6BA1C7BF68000D30114 /* whitebird_frame12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitebird_frame12.png; sourceTree = "<group>"; };
+		2A2CA6BB1C7BF68000D30114 /* whitebird_frame13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitebird_frame13.png; sourceTree = "<group>"; };
+		2A2CA6CA1C7C076600D30114 /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +82,7 @@
 		2A2CA69C1C7BF2F000D30114 /* Animations */ = {
 			isa = PBXGroup;
 			children = (
+				2A2CA6C91C7C02B500D30114 /* images */,
 				2A2CA69D1C7BF2F000D30114 /* AppDelegate.swift */,
 				2A2CA69F1C7BF2F000D30114 /* ViewController.swift */,
 				2A2CA6A11C7BF2F000D30114 /* Main.storyboard */,
@@ -62,6 +91,27 @@
 				2A2CA6A91C7BF2F000D30114 /* Info.plist */,
 			);
 			path = Animations;
+			sourceTree = "<group>";
+		};
+		2A2CA6C91C7C02B500D30114 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				2A2CA6CA1C7C076600D30114 /* background.jpg */,
+				2A2CA6AF1C7BF68000D30114 /* whitebird_frame1.png */,
+				2A2CA6B01C7BF68000D30114 /* whitebird_frame2.png */,
+				2A2CA6B11C7BF68000D30114 /* whitebird_frame3.png */,
+				2A2CA6B21C7BF68000D30114 /* whitebird_frame4.png */,
+				2A2CA6B31C7BF68000D30114 /* whitebird_frame5.png */,
+				2A2CA6B41C7BF68000D30114 /* whitebird_frame6.png */,
+				2A2CA6B51C7BF68000D30114 /* whitebird_frame7.png */,
+				2A2CA6B61C7BF68000D30114 /* whitebird_frame8.png */,
+				2A2CA6B71C7BF68000D30114 /* whitebird_frame9.png */,
+				2A2CA6B81C7BF68000D30114 /* whitebird_frame10.png */,
+				2A2CA6B91C7BF68000D30114 /* whitebird_frame11.png */,
+				2A2CA6BA1C7BF68000D30114 /* whitebird_frame12.png */,
+				2A2CA6BB1C7BF68000D30114 /* whitebird_frame13.png */,
+			);
+			name = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -122,8 +172,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2A2CA6C41C7BF68000D30114 /* whitebird_frame9.png in Resources */,
+				2A2CA6C51C7BF68000D30114 /* whitebird_frame10.png in Resources */,
+				2A2CA6C21C7BF68000D30114 /* whitebird_frame7.png in Resources */,
+				2A2CA6C01C7BF68000D30114 /* whitebird_frame5.png in Resources */,
+				2A2CA6BE1C7BF68000D30114 /* whitebird_frame3.png in Resources */,
+				2A2CA6BF1C7BF68000D30114 /* whitebird_frame4.png in Resources */,
+				2A2CA6C11C7BF68000D30114 /* whitebird_frame6.png in Resources */,
+				2A2CA6BD1C7BF68000D30114 /* whitebird_frame2.png in Resources */,
+				2A2CA6C81C7BF68000D30114 /* whitebird_frame13.png in Resources */,
+				2A2CA6BC1C7BF68000D30114 /* whitebird_frame1.png in Resources */,
 				2A2CA6A81C7BF2F000D30114 /* LaunchScreen.storyboard in Resources */,
+				2A2CA6CB1C7C076600D30114 /* background.jpg in Resources */,
+				2A2CA6C31C7BF68000D30114 /* whitebird_frame8.png in Resources */,
 				2A2CA6A51C7BF2F000D30114 /* Assets.xcassets in Resources */,
+				2A2CA6C71C7BF68000D30114 /* whitebird_frame12.png in Resources */,
+				2A2CA6C61C7BF68000D30114 /* whitebird_frame11.png in Resources */,
 				2A2CA6A31C7BF2F000D30114 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

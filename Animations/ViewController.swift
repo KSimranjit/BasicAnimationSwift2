@@ -10,9 +10,47 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    var counter = 1
+    var timer = NSTimer()
+    
+    var isAnimating = true
+    
+    @IBOutlet weak var animateButton: UIButton!
+    @IBOutlet weak var imageView: UIImageView!
+    
+    @IBAction func animateImage(sender: AnyObject) {
+        
+        if isAnimating {
+           //Animation Starts
+            timer = NSTimer.scheduledTimerWithTimeInterval(0.1, target: self, selector: Selector("doAnimation"), userInfo: nil, repeats: true)
+            animateButton.setTitle("Stop", forState: UIControlState.Normal)
+            isAnimating = false
+            
+        }
+        else{
+           //Animation Stops
+            timer.invalidate()
+            animateButton.setTitle("Animate", forState: UIControlState.Normal)
+            isAnimating = true
+        }
+    
+    
+    }
+   
+    
+    func doAnimation(){
+        if counter == 5 {
+            counter = 1
+        }
+        else{
+            counter++
+        }
+        //Loading imageView
+        imageView.image = UIImage(named: "whitebird_frame\(counter).png")
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
     }
 
     override func didReceiveMemoryWarning() {
@@ -20,6 +58,6 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-
+    
 }
 
